@@ -20,11 +20,15 @@
 ├── README.md
 ├── disc
 │   ├── disc_1.pdf
-│   ├── disc_1_coding.ipynb
 │   ├── disc_2.pdf
+│   ├── disc_3.pdf
+│   ├── disc_code
+│   │   ├── disc_2_code.ipynb
+│   │   └── disc_3_code.ipynb
 │   └── disc_sol
 │       ├── disc_1_sol.pdf
-│       └── disc_2_sol.pdf
+│       ├── disc_2_sol.pdf
+│       └── disc_3_sol.pdf
 ├── docs
 │   ├── Deep Learning.pdf
 │   ├── NNDL_Reading_List.pdf
@@ -41,6 +45,16 @@
 │   ├── hw1_my_sol.html
 │   ├── hw1_my_sol.md
 │   └── hw1_my_sol.pdf
+├── hw2
+│   ├── hw2.pdf
+│   ├── hw2_code
+│   │   ├── cifar-10-batches-py
+│   │   └── code
+│   ├── hw2_my_sol.html
+│   ├── hw2_my_sol.md
+│   └── hw2_my_sol.pdf
+├── hw_sols
+│   └── hw1_solutions.pdf
 ├── lec
 │   ├── lecture1_intro.pdf
 │   └── lecture2_ml-basics.pdf
@@ -72,7 +86,7 @@
         ├── 2021_midterm_sols.pdf
         └── 2022_midterm_sols.pdf
 
-10 directories, 45 files
+16 directories, 53 files
 ```
 
 ## Creator
